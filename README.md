@@ -1,4 +1,4 @@
-# sumoBlue
+# arduinoSumo3
 * **Projeto de Aprendizagem Coletiva 2, parte 3**
 * **Engenharia de Software, Segundo Semestre**
 * **Universidade Católica de Santa Catarina, Joinville**
